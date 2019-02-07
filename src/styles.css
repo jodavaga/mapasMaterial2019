@@ -1,2 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
-@import "~@angular/material/prebuilt-themes/purple-green.css";
+
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    margin: 20px 10px 0;
+}
